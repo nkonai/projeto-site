@@ -4,8 +4,12 @@
 }
 
 body {
-    background-color: rgb(217, 181, 252);
+    background-color: rgb(125, 102, 255);
 
+}
+
+img.lado {
+    float:right;
 }
 
 main {
